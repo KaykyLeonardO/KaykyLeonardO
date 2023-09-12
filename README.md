@@ -3,13 +3,14 @@
 • 👨‍💻 Hoje eu trabalho no Banco Do Brasil como Estagiario de Analise e desenvolvimento de sistemas.<p>
 • 💻 Estou em constante estudo atualmente em HTML, CSS e JavaScript.
 
-
-<div style="display: inline_block"><br>
+## 🕸️ **WEB DEV**
+<div style="display: inline_block">
+         <img align="center" alt="Kayky-C" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML"">
+         <img align="center" alt="Kayky-C" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS"">
+         <img align="center" alt="Kayky-C" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript"><p></p>
    <img align="center" alt="Kayky-C" height="37" width="40" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
    <img align="center" alt="Kayky-C++" height="30" width="31" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
-   <img align="center" alt="Kayky-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Kayky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Kayky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   
    <img align="center" alt="Kayky-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
 </div>
