@@ -1,7 +1,9 @@
-# Oiii eu sou a Kayky leonardo, sou fascinado por tecnologia!
+# Oii sou um jovem desenvolvedor amante da tecnologia!
 
 - 👨‍💻 Today I work at Banco do Brasil as an intern in Systems Analysis and Development.
 - 💻 I am actually studying HTML, CSS, and JavaScript.
+- 👨🏾‍💻 Tech enthusiast, currently studying System Development with a focus on Mechatronics. I'm inspired by innovative projects like robotics and cutting-edge technologies. My goal is to create solutions that shape the future of tech. 💻🤖🚀
+
 ## 🕸️ **WEB DEV**
 <div style="display: inline_block">
          <img align="center" alt="Kayky-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML"">
